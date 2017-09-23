@@ -66,11 +66,11 @@ public class BinaryGap {
  * 
  * Assume that:
  * 
- * •N is an integer within the range [1..2,147,483,647].
+ * ?N is an integer within the range [1..2,147,483,647].
  * 
  * Complexity:
  * 
- * •expected worst-case time complexity is O(log(N)); •expected worst-case space
+ * ?expected worst-case time complexity is O(log(N)); ?expected worst-case space
  * complexity is O(1).
  */
 
